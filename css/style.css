@@ -1,1 +1,17 @@
-img { height: 300px; width: auto;}
+* {
+    background-color: navajowhite;
+}
+img { 
+    height: 300px; 
+    width: auto;
+}
+h1 { 
+    color: red; 
+    font-size: 32px;
+}
+p {
+    font-size: 16px;
+}
+h3 {
+    font-size: 24px;
+}
