@@ -1,4 +1,15 @@
-# odin-recipes
-This is the first project in The Odin Project's course on full-stack development.
-The project is a basic recipe website. It will consist of a main index page and 
-contain links to a few recipes.
+Odin Recipes
+======
+Basic recipe website - 1st project for The Odin Project.
+
+:arrow_right:  [Live Demo](https://aaroncarlisle-cs.github.io/odin-recipes/)
+
+Created as a part of the curriculum for [The Odin Project.](https://www.theodinproject.com/)
+
+Features:
+----------------
+- Uses basic HTML and CSS.
+
+- Contains links to handpicked recipes I like.
+
+- Updated with flexbox to make responsive.
