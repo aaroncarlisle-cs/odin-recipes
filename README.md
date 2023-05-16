@@ -1,6 +1,6 @@
 Odin Recipes
 ======
-Basic recipe website - 1st project for The Odin Project.
+A basic recipe website and first assignment for The Odin Project.
 
 :arrow_right:  [Live Demo](https://aaroncarlisle-cs.github.io/odin-recipes/)
 
